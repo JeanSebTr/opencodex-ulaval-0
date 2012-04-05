@@ -38,6 +38,6 @@ Nous reprenons l'idée des OpenCode dans le but d'élargir nos horizons en abord
 Tout le monde peut monter une présentation. Que ce soit un projet cool sur lequel vous avez travaillé, un algo de la mort qui joue au majong ou encore une plateforme de développement trippante !
 
 Présentations prévues pour cette édition :
-* HTML5, Canvas API : [Alain Gilbert](https://github.com/alaingilbert)
-* Play framework : [Jacques-Olivier D. Bernier](https://github.com/jackdbernier)
-* Nodejs : [Jean-Sébastien Tremblay](https://github.com/JeanSebTr)
+ * HTML5, Canvas API : [Alain Gilbert](https://github.com/alaingilbert)
+ * Play framework : [Jacques-Olivier D. Bernier](https://github.com/jackdbernier)
+ * Nodejs : [Jean-Sébastien Tremblay](https://github.com/JeanSebTr)
