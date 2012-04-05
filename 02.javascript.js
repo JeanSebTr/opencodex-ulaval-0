@@ -9,3 +9,9 @@ var hello = 'world';
     console.log('['+k+']', v+' '+hello);
   });
 
+function Maintenant() {
+  console.log(new Date());
+}
+
+Maintenant();
+
