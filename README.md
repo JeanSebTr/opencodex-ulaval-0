@@ -3,6 +3,9 @@
 ## Présentation sur Nodejs
 Pour vous faire découvrir cette plate-forme toute jeune et les possibilités quelle apporte.
 
+ * [Cloner le projet dans cloud9ide](http://c9.io/jeansebtr/opencodex-ulaval-0)
+ * [Télécharger Nodejs](http://nodejs.org/#download)
+
 ## À propos de moi
  * Fait du Web depuis maintenant 6 ans
  * DEC en informatique Collège FXG
