@@ -5,11 +5,18 @@
 // Par exemple les operations sur les fichiers
 var fs = require('fs');
 
-var file = fs.createReadStream(__filename);
+var file = fs.createReadStream(__filename+'555');
 
-file.setEncoding('uft8');
 
-var data = file.read(); // ?!
+file.on('data', function(data) {
+    
+    console.log(data);
+    console.log(data.toString());
+  });
+  
+file.on('error', function(err) {
+  console.log(err);
+  });
 
 
 

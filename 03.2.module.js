@@ -15,7 +15,12 @@ function MaFonctionSuperCool() {
   };
 }
 
-console.log(MaFonctionSuperCool());
+
+
+module.exports = {
+  methode: MaFonctionSuperCool
+  
+  };
 
 
 
